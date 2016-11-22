@@ -1,7 +1,6 @@
 {
   "name": "petapi",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jenessawhite/petapi/issues"
   },
-  "homepage": "https://github.com/jenessawhite/petapi#readme"
+  "homepage": "https://github.com/jenessawhite/petapi#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "description": ""
 }
